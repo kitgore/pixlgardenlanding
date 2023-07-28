@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(115, 151, 134);
+}
+
+.logo{
+    width: 300px;
+}
+.container {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
